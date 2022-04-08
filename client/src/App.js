@@ -1,7 +1,7 @@
 import React from 'react'
 import { Routes, Route, Router } from "react-router-dom";
 import RestaurantsList from './components/restaurantDetails/RestaurantsList';
-
+import "./App.css"
 const App = () => {
   return (
     <>
