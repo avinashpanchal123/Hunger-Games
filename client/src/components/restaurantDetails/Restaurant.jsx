@@ -10,6 +10,8 @@ const Restaurant = ({ restaurant }) => {
      categories,
       reviews, receipe_url } =
     restaurant;
+
+
   return (
     <>
       <div className="main_box">
@@ -29,16 +31,16 @@ const Restaurant = ({ restaurant }) => {
             </div>
             <div>
             Accepts {
-             payment_methods.card == true ?
+             payment_methods.card === true ?
              ("card  "):
              null
             }
             {
-                payment_methods.cash == true ?
+                payment_methods.cash === true ?
                 ("cash    "):null
             }
             {
-                payment_methods.upi == true ?
+                payment_methods.upi === true ?
                 ("upi"):null
             }
             </div>

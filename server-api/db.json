@@ -5,13 +5,13 @@
             "title":"URU Brewpark",
             "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
+            "cost_for_one": 550,
             "reviews": 512,
             "ratings":4.3,  
             "votes":766,
             "payment_methods": {
-                "card": true,
-                "cash": true,
+                "card": false,
+                "cash": false,
                 "upi": true
             }
         },
@@ -19,28 +19,28 @@
             "title":"URU Brewpark",
             "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
+            "cost_for_one": 450,
             "reviews": 512,
-            "ratings":4.3,  
+            "ratings":3.8,  
             "votes":766,
             "payment_methods": {
-                "card": true,
+                "card": false,
                 "cash": true,
-                "upi": true
+                "upi": false
             }
         },
         {
             "title":"URU Brewpark",
             "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
+            "cost_for_one": 400,
             "reviews": 512,
-            "ratings":4.3,  
+            "ratings":3,  
             "votes":766,
             "payment_methods": {
-                "card": true,
+                "card": false,
                 "cash": true,
-                "upi": true
+                "upi": false
             }
         },
     
@@ -48,12 +48,27 @@
             "title":"URU Brewpark",
             "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
+            "cost_for_one": 950,
             "reviews": 512,
-            "ratings":4.3,  
+            "ratings":3.2,  
             "votes":766,
             "payment_methods": {
                 "card": true,
+                "cash": false,
+                "upi": true
+            }
+        },
+        
+        {
+            "title":"URU Brewpark",
+            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
+            "categories":["Continental", "pizza", "Asian", "Desserts"],
+            "cost_for_one": 600,
+            "reviews": 512,
+            "ratings":3.5,  
+            "votes":766,
+            "payment_methods": {
+                "card": false,
                 "cash": true,
                 "upi": true
             }
@@ -65,11 +80,11 @@
             "categories":["Continental", "pizza", "Asian", "Desserts"],
             "cost_for_one": 600,
             "reviews": 512,
-            "ratings":4.3,  
-            "votes":766,
+            "ratings":4.2,  
+            "votes":780,
             "payment_methods": {
                 "card": true,
-                "cash": true,
+                "cash": false,
                 "upi": true
             }
         },
@@ -80,12 +95,12 @@
             "categories":["Continental", "pizza", "Asian", "Desserts"],
             "cost_for_one": 600,
             "reviews": 512,
-            "ratings":4.3,  
+            "ratings":3.0,  
             "votes":766,
             "payment_methods": {
                 "card": true,
                 "cash": true,
-                "upi": true
+                "upi": false
             }
         },
         
@@ -93,28 +108,13 @@
             "title":"URU Brewpark",
             "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
+            "cost_for_one": 630,
             "reviews": 512,
-            "ratings":4.3,  
+            "ratings":2.0,  
             "votes":766,
             "payment_methods": {
                 "card": true,
-                "cash": true,
-                "upi": true
-            }
-        },
-        
-        {
-            "title":"URU Brewpark",
-            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
-            "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
-            "reviews": 512,
-            "ratings":4.3,  
-            "votes":766,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
+                "cash": false,
                 "upi": true
             }
         },
@@ -122,12 +122,12 @@
             "title":"URU Brewpark",
             "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
+            "cost_for_one": 610,
             "reviews": 512,
-            "ratings":4.3,  
+            "ratings":3.5,  
             "votes":766,
             "payment_methods": {
-                "card": true,
+                "card": false,
                 "cash": true,
                 "upi": true
             }
@@ -136,12 +136,40 @@
             "title":"URU Brewpark",
             "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
+            "cost_for_one": 650,
+            "reviews": 512,
+            "ratings":4.3,  
+            "votes":766,
+            "payment_methods": {
+                "card": false,
+                "cash": true,
+                "upi": false
+            }
+        },
+        {
+            "title":"URU Brewpark",
+            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
+            "categories":["Continental", "pizza", "Asian", "Desserts"],
+            "cost_for_one": 700,
             "reviews": 512,
             "ratings":4.3,  
             "votes":766,
             "payment_methods": {
                 "card": true,
+                "cash": false,
+                "upi": true
+            }
+        },
+        {
+            "title":"URU Brewpark",
+            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
+            "categories":["Continental", "pizza", "Asian", "Desserts"],
+            "cost_for_one": 500,
+            "reviews": 512,
+            "ratings":5.0,  
+            "votes":766,
+            "payment_methods": {
+                "card": false,
                 "cash": true,
                 "upi": true
             }
@@ -150,42 +178,14 @@
             "title":"URU Brewpark",
             "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
+            "cost_for_one": 612,
             "reviews": 512,
-            "ratings":4.3,  
+            "ratings":3.8,  
             "votes":766,
             "payment_methods": {
                 "card": true,
-                "cash": true,
-                "upi": true
-            }
-        },
-        {
-            "title":"URU Brewpark",
-            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
-            "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
-            "reviews": 512,
-            "ratings":4.3,  
-            "votes":766,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-        },
-        {
-            "title":"URU Brewpark",
-            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
-            "categories":["Continental", "pizza", "Asian", "Desserts"],
-            "cost_for_one": 600,
-            "reviews": 512,
-            "ratings":4.3,  
-            "votes":766,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
+                "cash": false,
+                "upi": false
             }
         }
     ]
