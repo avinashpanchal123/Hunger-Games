@@ -8,19 +8,19 @@ const PaymentFilter  = ({filterByPayment, restaurants})=> {
   return (
       <>
       <div className='bottom_margin'>
-        <button onClick={
+        <button className='payment_btn' onClick={
           ()=>{handletPayment("cash")}
         }>Cash Only</button>
       </div>
       <div className='bottom_margin'>
-        <button onClick={
+        <button className='payment_btn' onClick={
           ()=>{
             handletPayment("card")
           }
         }>Card Accepted</button>
       </div>
       <div>
-        <button>All</button>
+        <button className='payment_btn'>All</button>
       </div>
       </>
     )

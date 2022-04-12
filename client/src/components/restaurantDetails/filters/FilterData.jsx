@@ -11,22 +11,22 @@ const FilterData = ({restaurants, filterWRTrating}) => {
   return (
     <>
       <div className="star_btn_container bottom_margin">
-        <div className="star_item">
+        <div className="star_item bottom_margin">
           <button onClick={()=>{
               handleStarFilter(1)
           }}>1*</button>
         </div>
-        <div className="star_item">
+        <div className="star_item bottom_margin">
             <button onClick={()=>{
               handleStarFilter(2)
             }}>2*</button>
         </div>
-        <div className="star_item">
+        <div className="star_item bottom_margin">
         <button onClick={()=>{
               handleStarFilter(3)
             }}>3*</button>
         </div>
-        <div className="star_item">
+        <div className="star_item bottom_margin">
         <button onClick={()=>{
               handleStarFilter(4)
             }}>4*</button>

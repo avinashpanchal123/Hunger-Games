@@ -9,12 +9,12 @@ const SortData = ({sortData})=> {
   return (
     <>
       <div>
-          <button onClick={
+          <button className='big_btns' onClick={
             ()=>{handleSort(0)
             }}>Sort High to Low</button>
         </div>
         <div>
-          <button onClick={ ()=>{handleSort(1)
+          <button className='big_btns' onClick={ ()=>{handleSort(1)
             }}>Sort Low to High</button>
         </div>
     </>

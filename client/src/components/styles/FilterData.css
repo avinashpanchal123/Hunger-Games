@@ -1,21 +1,27 @@
 .star_btn_container{
     width: 100%;
-    height: 2rem;
-    display: flex;
-    border: 2px solid black;
+    height: 10rem;
+    /* display: flex; */
+    /* border: 2px solid black; */
     justify-content: space-between;
 }
 
 .star_item{
-    width: 25%;
-    background-color: aqua;
+    width: 50%;
+    margin: auto;
+    /* background-color: aqua; */
 }
 
 .star_item button{
     width: 100%;
+    padding: 0.3rem;
     height:  100%;
 }
 
+.payment_btn{
+    padding: 0.3rem;
+    width: 50%;
+}
 
 
 

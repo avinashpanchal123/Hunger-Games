@@ -16,7 +16,7 @@
             }
         },
         {
-            "title":"URU Brewpark",
+            "title":"Seasonal Tastes",
             "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
             "cost_for_one": 450,
@@ -30,8 +30,8 @@
             }
         },
         {
-            "title":"URU Brewpark",
-            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
+            "title":"Vohuman Cafe",
+            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-s/0e/62/8c/bc/photo1jpg.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
             "cost_for_one": 400,
             "reviews": 512,
@@ -45,8 +45,8 @@
         },
     
         {
-            "title":"URU Brewpark",
-            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
+            "title":"The Place - Touche The Sizzler",
+            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-s/0e/48/ab/49/photo0jpg.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
             "cost_for_one": 950,
             "reviews": 512,
@@ -60,8 +60,8 @@
         },
         
         {
-            "title":"URU Brewpark",
-            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
+            "title":"Thaat Baat Restaurant",
+            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-f/0d/fa/c1/65/20161227-214454-largejpg.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
             "cost_for_one": 600,
             "reviews": 512,
@@ -75,8 +75,8 @@
         },
         
         {
-            "title":"URU Brewpark",
-            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
+            "title":"Haldiram Foods",
+            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-s/0e/47/10/f4/delicious-pav-bhaji.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
             "cost_for_one": 600,
             "reviews": 512,
@@ -90,7 +90,7 @@
         },
         
         {
-            "title":"URU Brewpark",
+            "title":"Seasonal Tastes",
             "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
             "cost_for_one": 600,
@@ -105,8 +105,8 @@
         },
         
         {
-            "title":"URU Brewpark",
-            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-p/07/c5/76/2c/ashoka-restaurant.jpg",
+            "title":"Barbecue",
+            "receipe_url":"https://media-cdn.tripadvisor.com/media/photo-s/0e/bb/18/17/photo1jpg.jpg",
             "categories":["Continental", "pizza", "Asian", "Desserts"],
             "cost_for_one": 630,
             "reviews": 512,
